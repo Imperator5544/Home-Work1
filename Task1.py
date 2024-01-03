@@ -4,7 +4,7 @@ print("Enter any three numbers")
 Залежно від вибору користувача програма виводить на екран максимум із трьох, 
 мінімум із трьох або середньоарифметичне трьох чисел.
 """
-number_first = float(input("Enter first number: "))
+number_first = float(input("Enter firstttt number: "))
 number_second = float(input("Enter second number"))
 number_third = float(input("Enter third number"))
 
